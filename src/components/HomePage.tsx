@@ -96,7 +96,7 @@ export default function HomePage() {
       </section>
 
       <footer className="mt-16 text-center text-sm text-slate-500">
-        Made with ❤️ using Shadcn UI - Ninja Hattori Fanpage
+        Made with ❤️ using Shadcn UI - Ninja Hattori Fanpage - by Utkarsh
       </footer>
     </main>
   );
