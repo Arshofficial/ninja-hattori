@@ -23,7 +23,7 @@ export default function HomePage() {
 
       <section className="mb-10 text-center">
         <Alert>
-          <strong className="w-[100px]">Did you know?</strong> Ninja Hattori aired first in 1981 and
+          <strong className="w-[100px] animate-bounce">Did you know?</strong> Ninja Hattori aired first in 1981 and
           is still loved today!
         </Alert>
       </section>
